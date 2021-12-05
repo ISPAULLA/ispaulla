@@ -1,7 +1,7 @@
 ##Olá! Eu sou a Ispaulla
 
 
-- � Gosto muito de desenvolvimento, e sempre estou em busca de melhorias no aprendizado de novas tecnologias. Me considero bastante curiosa e gosto muito de praticar para alavancar na criação de conteúdos para o meu GitHub. 🕵️ Sou apaixonada por temas relacionados a músicas, filmes e séries. Sou leitora quando tenho um tempo disponível.♥️ Estou me desenvolvendo nos seguintes conteúdos 👇 
+- � Estou me desenvolvendo nos seguintes conteúdos 👇 
 - Frontend: Html, CSS e JavaScript.
 
 <div align="center">
